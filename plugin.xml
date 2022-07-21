@@ -19,7 +19,7 @@
 -->
 
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="cordova-plugin-inappbrowser"
+           id="cordova-plugin-inappbrowser-borisb"
       version="5.0.1-dev">
 
     <name>InAppBrowser</name>
